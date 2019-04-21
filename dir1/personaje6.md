@@ -1,5 +1,5 @@
 ---
 layout: "personajes"
 title: "Personaje6"
-permalimh: /personaje6/
+permalink: /personaje6/
 ---
