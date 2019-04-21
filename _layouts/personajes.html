@@ -1,7 +1,7 @@
 <html>
 <title> {{site.title}} | {{page.title}} </title>
 {% include header.html color="e6f10b" %}
-
+{% if page.title=personajes %}
 <table cellspacing="0" >
 <tr>
   <td><img src="https://guzmanb11.github.io/Tyrfing/imagenes/Chico.png"></td><td><img src="https://guzmanb11.github.io/Tyrfing/imagenes/Chica.png"></td>
@@ -17,4 +17,6 @@
 </tr>
 </table>
 {{ content }}
+{% endif %}
+
 </html>
