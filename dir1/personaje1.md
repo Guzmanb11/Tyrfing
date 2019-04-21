@@ -1,5 +1,6 @@
 ---
 layout: "personajes"
-title: Personajes
+title: "Personajes"
 permalink: /personajes/
 ---
+<title>personajes</title>
