@@ -1,5 +1,5 @@
 ---
-layout:"personajes"
-title:"Personaje2"
-permalink:"/personaje2/"
+layout: "personajes"
+title: "Personaje2"
+permalink: "/personaje2/"
 ---
