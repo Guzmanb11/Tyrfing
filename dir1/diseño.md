@@ -1,4 +1,4 @@
-----
+---
 layout: "page"
 permalink: /diseño
 title: Memoria
