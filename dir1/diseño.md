@@ -1,7 +1,7 @@
 ---
 layout: "page"
+title: Diseño
 permalink: /diseño
-title: Memoria
 ---
 <h3>1) Introducción:</h3>
 Tyrfing es un rpg (role player game) el cual consiste en conseguir superar una serie de niveles o
