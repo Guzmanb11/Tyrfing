@@ -10,7 +10,7 @@ Grupo techno team:<br>
 • José Andrés Gómez Suarez.<br>
 • Miguel Herraez.<br>
 • Álvaro alcaide.<br>
-</h3>1) Introduccion a la memoria:</h3>
+<h3>1) Introduccion a la memoria:</h3>
 Comenzamos el proyecto del videojuego realizando una encuesta a un grupo de personas a las que se
 iba a dirigir a través de una amiga de un miembro del grupo; los resultados de las encuestas nos hicieron
 enfocarnos hacia juegos de estrategia y nos pareció buena idea tomar como referencia el juego fire
